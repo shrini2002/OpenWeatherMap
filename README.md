@@ -60,5 +60,6 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 You can add and run tests to ensure everything is working correctly.
 
-created bt: shrini2002
+
 ```
+created bt: shrini2002
